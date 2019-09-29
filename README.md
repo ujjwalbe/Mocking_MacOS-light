@@ -1,4 +1,5 @@
 # Mocking_MacOS(light)
+# ! Right Now This Repo Is Incomplete
 
 As you guys requested how i made this for you guys
 
@@ -7,20 +8,12 @@ As you guys requested how i made this for you guys
 ## Installation
 
 
-foobar
 
-```bash
-pip install foobar
 ```
 
 ## Usage
 
-```python
-import foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
 
