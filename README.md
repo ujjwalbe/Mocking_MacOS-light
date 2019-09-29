@@ -2,9 +2,12 @@
 
 As you guys requested how i made this for you guys
 
+![](/preview/image1.png)
+
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+foobar
 
 ```bash
 pip install foobar
