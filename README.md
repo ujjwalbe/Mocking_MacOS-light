@@ -12,7 +12,7 @@ I used Plasma panel , just resize it according to your test it looks better slim
     It contains default Application Launcher beside that Active Window Control and a Global Menu all of this can be found in KDE widgets.
     On the right side it contains NetSpeed Monitor then default System Tray and very useful Event Calender for User Selection or switching to another user i use USwitcher.
 ## Icons
-   Icons i used is OS-Catalina. To install icons on Kde go to settings> Icons> Add New Icons or Download any icons copy it to 
+   Icons i used is [OS-Catalina](https://store.kde.org/p/1309810/). To install icons on Kde go to settings> Icons> Add New Icons or Download any icons copy it to 
    ```
    /home/$USER/.local/share/icons
    ```
@@ -20,7 +20,7 @@ I used Plasma panel , just resize it according to your test it looks better slim
    For Plasma thes i use McMojave Light all of it can be found in the plasma folder in this repo.
 ## ColorSchemes
    Color scheme used for the system is McMojave-Light-Modified i customized it according to my test, you can also do it by clicking the pen icon on color scheme.
-   For Konosole i customized it totaly as my test it also can be found in this repo i call it TimeStone.
+   For Konosole i customized it totaly as my test it also can be found in this repo i call it [TimeStone](https://github.com/ujjwalbe/Mocking_MacOS-light/tree/master/ColorSchemes/Konsole).
 ## Theme Engine
    Theme engine used here is called [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) Engine all of its themes can be found in here.
    First you need to install it from this [Link](https://github.com/tsujan/Kvantum/tree/master/Kvantum). 
@@ -31,10 +31,10 @@ I used Plasma panel , just resize it according to your test it looks better slim
 ## Terminal Shell
    Using Zsh shel instead of bash.
    
-   Oh My Zsh will not make you a 10x developer...but you may feel like one.
+   [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) will not make you a 10x developer...but you may feel like one.
    For customizing terminal. Use a Powerline font for proper result.All the instructions can be found in Oh My Zsh repo.
 ## Wallpapers
-   I have added nice wallpapers try them out.
+   I have added nice [wallpapers](https://github.com/ujjwalbe/Mocking_MacOS-light/tree/master/wallpaper) try them out.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
